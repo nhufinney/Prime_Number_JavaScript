@@ -2,7 +2,7 @@
 ## by Nhu Finney
 ### Date: March 24, 2015
 #### Description
-This is one of classworks I have done on my own by JavaScripts. It lets a user input a number then list out all prime numbers smaller the input number.
+The Prime Number app to let users input a maximum number then it will list out all prime numbers smaller the maximum number.
 
 #### Setup instructions
 1. Clone this git repository https://github.com/nhufinney/Prime_Number_JavaScript.git
